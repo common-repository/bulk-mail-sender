@@ -1,0 +1,23 @@
+.h-100{
+    height: 100%;
+}
+.mce-first{
+    display: none !important;
+}
+
+#insert-media-button , .wp-editor-tools , .mce-statusbar{
+    display: none !important;
+}
+#bmsi_mail_box_ifr , .mce-container ,.wp-editor-wrap ,.wp-editor-container, .mce-container-body ,#bmsi_mail_box_ifr html ,#bmsi_mail_box_ifr html body{
+    height: 98% !important;
+}
+
+#history_pro_template_wrapper #qt_bmsi_mail_box_toolbar{
+    display: none;
+}
+
+.modal-dialog{
+    height: 90%;
+    margin-bottom: 0;
+    max-width: 1200px;
+}
